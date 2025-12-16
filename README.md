@@ -54,6 +54,7 @@ The Python ETL process performs:
 Run ETL:
 ```bash
 python code/main.py
+```
 SQL Analysis
 
 SQL queries answer business questions such as:
@@ -69,9 +70,9 @@ Discount effectiveness
 Customer segmentation (New / Returning / Loyal)
 
 All queries are available in:
-
+```
 sql/analysis.sql
-
+```
 Power BI Dashboard
 
 The Power BI dashboard visualizes:
