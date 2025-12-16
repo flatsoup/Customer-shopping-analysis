@@ -23,6 +23,7 @@ data ingestion → transformation → database storage → SQL analysis → visu
 - **Git & GitHub**
 
 ## Project Structure
+```
 
 │
 ├── code/
@@ -41,7 +42,7 @@ data ingestion → transformation → database storage → SQL analysis → visu
 │
 ├── .gitignore
 ├── README.md
-
+```
 
 ## ETL Pipeline
 
