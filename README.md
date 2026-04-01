@@ -43,8 +43,13 @@ data ingestion → transformation → database storage → SQL analysis → visu
 ├── .gitignore
 ├── README.md
 ```
-## Dashboard
-[Dashboard/dashboard_accessories_view.png]
+## Power BI Dashboard
+
+The Power BI dashboard visualizes key business metrics across customer segments.
+
+![Dashboard Overview](Dashboard/dashboard_overview.png)
+
+> **Dashboard file:** `Dashboard/customer_analysis.pbix`
 ---
 ## ETL Pipeline
 
