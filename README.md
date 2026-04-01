@@ -43,7 +43,9 @@ data ingestion → transformation → database storage → SQL analysis → visu
 ├── .gitignore
 ├── README.md
 ```
-
+## Dashboard
+[Dashboard/dashboard_accessories_view.png]
+---
 ## ETL Pipeline
 
 The Python ETL process performs:
